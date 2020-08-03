@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am Sambad, a PhD Candidate in Mechanical Engineering at the Missouri University of Science and Technology, Rolla. I will graduate in May, 2021. Currently I am working on setting up the experiment for overground physical human-robot interaction (pHRI). The work includes developing an appropriate control algorithm that is best suited for the experiment, designing the data acquisition technique, and exploring data analysis techniques for future human data.
+Hi! I am Sambad, a PhD Candidate in [Mechanical Engineering](https://mae.mst.edu/) at the [Missouri University of Science and Technology, Rolla](https://www.mst.edu/). I will graduate in May, 2021. Currently, I am working on setting up the experiment for overground physical human-robot interaction (pHRI). The work includes developing an appropriate control algorithm that is best suited for our experiment, designing the data acquisition techniques, and exploring data analysis techniques that can be used for analyzing future human movement data.
 
 Work and Research
 ======
-The experiment will make use of the robotic arm, which was designed and developed in our Lab as my PhD project to apply precise force perturbation while the robot (developed robotic arm + outsourced lower body) leads along the specified trajectory. The movement data collected will be utilized to extract meaningful information on human arm impedance during overground human-robot interaction.
+As a research assistant, I am working in the Physical Human-Robot Interaction Laboratory (pHRI Lab) under the supervison of [Dr. Yun Seong Song](https://mae.mst.edu/facultyandstaff/facultysong/) in the NSF funded project "Human Arm Impedance Modulation during Overground Physical Interactions". In the lab, we have designed and developed, as a part of my PhD projcet, a robotic arm that is capable of applying precise force perturbation during human interaction experiments. The robotic arm is lodged on top of the autonomous mobile body such that it can now be used as a speed controlled trajectory tracker and simultaneously as a leader of an overground pHRI experiments. The movement data will be collected during the experiments and will be analyzed to extract meaningful information on human arm impedance during overground human-robot interaction. In course of robot development, we also developed a simulator model of the robotic arm based on its dynamics. This simulator not only helped us weighing up the effectiveness of the the robotic arm based on its endpoint impedance but also will help up designing the effective control algorithms.
 
 My research interests mainly lie within the field of **human neuromechanics** with an emphasis on: 
 1. Human-human and human-robot interaction
