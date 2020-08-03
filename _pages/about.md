@@ -19,7 +19,9 @@ My research interests mainly lie within the field of **human neuromechanics** wi
 1. Data acquisition
 1. Data analysis
 1. Kinematics and dynamics of robotic manipulators as well as human arms
-1. Robotics and controls.
+1. Robotics and controls
+
+In addition, I also work as a graduate teaching assistant for [Control System Laboratory](https://mae.mst.edu/facilities/learninglabcontrolsys/) to assist students for practical implementaion of PLC and Labview software.
 
 Background
 ======
