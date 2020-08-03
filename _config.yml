@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Sambad Regmi"
-  avatar           : "profile_picture.jpg"
+  avatar           : "profile.png"
   bio              : "An ethusiastic learner of Robotics, Human-Robot Interaction, and Controls" 
   location         : "Rolla, MO, USA"
   employer         : 
