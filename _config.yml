@@ -82,11 +82,9 @@ analytics:
 author:
   name             : "Sambad Regmi"
   avatar           : "profile.png"
-  bio              : "An ethusiastic learner of Robotics, Human-Robot Interaction, and Controls  
-  
-  Phd Student"
+  bio              : "An ethusiastic learner of Robotics, Human-Robot Interaction, and Controls" 
   location         : "Rolla, MO, USA"
-  employer         : "Missouri University of Science and Technology (formerly: University of Missouri, Rolla)"
+  employer         : 
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=Bp2tTBkAAAAJ&hl=en&oi=ao"
   email            : "sambadregmi@mst.edu"
