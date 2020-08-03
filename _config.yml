@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Sambad Regmi"
   avatar           : "profile.png"
-  bio              : "An ethusiastic learner of Robotics, Human-Robot Interaction, and Controls" 
+  bio              : "An ethusiastic learner of Robotics, Human-Robot Interaction, and Controls"+"write your designation" 
   location         : "Rolla, MO, USA"
   employer         : 
   pubmed           :
