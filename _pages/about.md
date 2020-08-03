@@ -23,4 +23,4 @@ My research interests mainly lie within the field of **human neuromechanics** wi
 
 Background
 ======
-I received my Bachelor in Engineering (BE) from Visvesvarya Technological University, Bengalure through Nepal Aid Fund Scholarship Scheme 2012-2013, Minisitry of Education, India.
+I received my Bachelor in Engineering (BE) from [Visvesvarya Technological University](https://vtu.ac.in/en/), Bengalure through [COMPEX 2012 Scholarship Scheme](https://www.indembkathmandu.gov.in/page/about-education-and-scholarship/), Embassy of India.
