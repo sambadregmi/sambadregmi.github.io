@@ -21,8 +21,8 @@ My research interests mainly lie within the field of **human neuromechanics** wi
 1. Kinematics and dynamics of robotic manipulators as well as human arms
 1. Robotics and controls
 
-In addition, I also work as a graduate teaching assistant for [Control System Laboratory](https://mae.mst.edu/facilities/learninglabcontrolsys/) to assist students for practical implementaion of PLC and LabVIEW software.
+In addition, I also work as a graduate teaching assistant for [Control System Laboratory](https://mae.mst.edu/facilities/learninglabcontrolsys/) in which I assist students in hardware implementaion of control techniques with the help of PLC and LabVIEW software.
 
 Background
 ======
-I received my Bachelor in Engineering (BE) from [Visvesvarya Technological University](https://vtu.ac.in/en/), Bengaluru through [COMPEX 2012 Scholarship Scheme](https://www.indembkathmandu.gov.in/page/about-education-and-scholarship/), Embassy of India.
+I received my Bachelor in Engineering (BE) from [Visvesvarya Technological University](https://vtu.ac.in/en/), Bengaluru with the scholarship from [COMPEX 2012 Scholarship Scheme](https://www.indembkathmandu.gov.in/page/about-education-and-scholarship/), Embassy of India in Kathmandu, Nepal.
