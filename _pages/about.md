@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am Sambad, a PhD Candidate in [Mechanical Engineering](https://mae.mst.edu/) at the [Missouri University of Science and Technology, Rolla](https://www.mst.edu/). I will graduate in May, 2021. Currently, I am working on setting up the experiment for overground physical human-robot interaction (pHRI). The work includes developing an appropriate control algorithm that is best suited for our experiment, designing the data acquisition techniques, and exploring data analysis techniques that can be used for analyzing future human movement data.
+Hi! I am Sambad, a PhD Candidate in [Mechanical Engineering](https://mae.mst.edu/) at the [Missouri University of Science and Technology, Rolla](https://www.mst.edu/). I expect to graduate in July, 2021. Currently, I am working on setting up the experiment for overground physical human-robot interaction (pHRI). The work includes developing an appropriate control algorithm that is best suited for our experiment, designing the data acquisition techniques, and exploring data analysis techniques that can be used for analyzing future human movement data.
 
 Work and Research
 ======
