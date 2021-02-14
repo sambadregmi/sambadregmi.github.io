@@ -1,20 +1,16 @@
 ---
-title: "Teaching experience 1"
+title: "Control System Laboratory"
 collection: teaching
-type: "Undergraduate course"
+type: "Undergraduate Lab"
 permalink: /teaching/ME4480-Controls
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "Missouri University of Science and Technology, Department"
+date: January 2020 - Present
+location: "Rolla-MO, USA"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+* Provided guidance in lab sessions of ME4480 Control System Lab in understanding physical concepts of control systems
+* Assisted students in hardware implementation of control algorithms using PLC and LabVIEW software
+* Evaluated students’ performance and provided detailed feedback on conceptual understanding
+* Maintained regularly scheduled office hours to advise and assist students
+* Taught a laboratory-heavy class online during Covid-19 situation using different strategies (whichever is feasible) such as remotely accessing the hardware, using simulated environments, and making video demos
+* Experience with course management software like Canvas, and online teaching via Zoom
