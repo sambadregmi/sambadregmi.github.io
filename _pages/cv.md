@@ -17,7 +17,7 @@ Education
   * Date: July, 2020 (expected) (Current GPA: 3.933)
   * Doctoral Thesis Title: “Development of an Interactive Robot for Overground Physical Human-RobotInteraction”
   * Project: “Human Arm Impedance Modulation during Overground Physical Interactions”(funded byNational Science Foundation)
-  * Advisor: Dr. Yun Seong Song
+  * Advisor: [Dr. Yun Seong Song](https://mae.mst.edu/facultyandstaff/facultysong/)
 
 Work experience
 ======
