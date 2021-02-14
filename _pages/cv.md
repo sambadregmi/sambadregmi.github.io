@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* <b> B.E. in Mechanical Engineering, Visvesvaraya Technological University, India </b>
+  * Date: June, 2016
+* Ph.D in Mechanical Engineering, Missouri University of Science and Technology, Rolla-MO 2021 (expected)
 
 Work experience
 ======
