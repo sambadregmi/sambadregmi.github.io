@@ -11,9 +11,13 @@ redirect_from:
 
 Education
 ======
-* <b> B.E. in Mechanical Engineering, Visvesvaraya Technological University, India </b>
-  * Date: June, 2016
-* Ph.D in Mechanical Engineering, Missouri University of Science and Technology, Rolla-MO 2021 (expected)
+* <b>B.E. in Mechanical Engineering, Visvesvaraya Technological University, India </b>
+  * Date: June, 2016 (Percentage: 85%)
+* <b>Ph.D in Mechanical Engineering, Missouri University of Science and Technology, Rolla-MO, USA </b>
+  * Date: July, 2020 (expected) (Current GPA: 3.933)
+  * Doctoral Thesis Title: “Development of an Interactive Robot for Overground Physical Human-RobotInteraction”
+  * Project: “Human Arm Impedance Modulation during Overground Physical Interactions”(funded byNational Science Foundation)
+  * Advisor: Dr. Yun Seong Song
 
 Work experience
 ======
