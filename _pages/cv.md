@@ -53,7 +53,7 @@ Awards
 * John W. Claypool Fund for Medical Research (Nov 2020 - Apr 2021)\
   Received student research funding to conduct research on human-human and human-robot interaction
 
-Language
+Languages
 ======
 * English (proficient)
 * Hindi (proficient)
