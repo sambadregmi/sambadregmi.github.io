@@ -1,14 +1,14 @@
 ---
 title: "Control System Laboratory"
 collection: teaching
-type: "Undergraduate Lab"
+type: "Undergraduate (Senior) Lab"
 permalink: /teaching/ME4480-Controls
 venue: "Missouri University of Science and Technology, Department"
 date: January 2020 - Present
 location: "Rolla-MO, USA"
 ---
 
-* Provided guidance in lab sessions of ME4480 Control System Lab in understanding physical concepts of control systems
+* Provided guidance in understanding physical concepts of control systems
 * Assisted students in hardware implementation of control algorithms using PLC and LabVIEW software
 * Evaluated students’ performance and provided detailed feedback on conceptual understanding
 * Maintained regularly scheduled office hours to advise and assist students
