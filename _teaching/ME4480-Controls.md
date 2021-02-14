@@ -1,7 +1,7 @@
 ---
 title: "Control System Laboratory"
 collection: teaching
-type: "Undergraduate (Senior) Lab \[January 2020 to Preset\]"
+type: "Undergraduate (Senior) Lab \[January 2020 to Preset]"
 permalink: /teaching/ME4480-Controls
 venue: "Missouri University of Science and Technology, Department of Mechanical and Aerospace engineering"
 date:
