@@ -1,7 +1,7 @@
 ---
 title: "Design Methodology for Robotic Manipulator for Overground Physical Interaction Tasks"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+# permalink: /publication/2009-10-01-paper-title-number-1
 # excerpt: ''
 date: 2020-03-06
 venue: 'ASME Journal of Mechanisms and Robotics '
