@@ -8,7 +8,8 @@ redirect_from:
 ---
 
 {% include base_path %}
-[Download paper here](http://sambadregmi.github.io/files/CV_Sambad_Regmi.pdf)
+[Download CV](http://sambadregmi.github.io/files/CV_Sambad_Regmi.pdf)
+
 Education
 ======
 * <b>B.E. in Mechanical Engineering, Visvesvaraya Technological University, India </b>
