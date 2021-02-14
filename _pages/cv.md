@@ -28,7 +28,7 @@ Employment
   * Currently, designing and conducting a human-robot interaction experiment, including acquiring an IRB approval, recruiting and interacting with the participants, preparing and maintaining the experiment setup, collecting and analyzing the data, and reporting results
 * **Quality Assurance and Maintenance Engineer**, Nepal Health Research Council, Nepal (June 2016 - June 2017)
   * Involved in solving various issues related to the equipment for ECG and Sprirometry tests that were used in project "Prevalence of Chronic Diseases in Nepal"}
-  * Coordinated with health workers and patients for smooth and effortless use of the devices}
+  * Coordinated with health workers and patients for smooth and effortless use of the devices
 
 Teaching and Mentoring Experience
 ======
@@ -38,16 +38,23 @@ Teaching and Mentoring Experience
 
 Skills
 ======
-  * Development Tools
+* Development Tools
   MATLAB, LabVIEW, SOLIDWORKS, Mathcad, Maplesoft, Python, PLC
-  * Software Tools
+* Software Tools
   Vicon Nexus, Kollmorgen Workbench, Microsoft Office, Latex
-  * Hardware Experience
+* Hardware Experience
   Motion capture system (Vicon Motion Systems), LabVIEW Real-Time and associated control systems; LabVIEW SoftMotion, LabVIEW FPGA, and other Modules; Brushless DC motors (Kollmorgen, Anahiem Automations (AA) and others); Motor drives and contollers (Kollmorgen-AKD and AA); ATI Force/Torque sensor, and controller; Data acquisition systems (RS232, NI USB6021, NI cRIO 9045 modules, and AA modules); DirectSoft PLC ; Electrocardiogram Machine; Spirometer
-  
+
+Awards
+======
+* COMPEX Scholarship Scheme 2012, Embassy of India (Jul 2012 - May 2016)
+  Got selected through an open competition to pursue BE (Mechanical Engineering) in India
+* John W. Claypool Fund for Medical Research (Nov 2020 - Apr 2021)
+  Received student research funding to conduct research on human-human and human-robot interaction
+
 Language
 ======
-English (proficient), Hindi (proficient), Nepali (native fluency)}
+English (proficient), Hindi (proficient), Nepali (native fluency)
 
 Publications
 ======
@@ -60,7 +67,3 @@ Talks
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
