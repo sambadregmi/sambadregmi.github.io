@@ -6,7 +6,7 @@ excerpt: 'The paper presents a new design method that is tailored for designing 
 date: 2020-03-06
 venue: 'ASME Journal of Mechanisms and Robotics '
 paperurl: 'https://doi.org/10.1115/1.4045688'
-citation: 'Sambad Regmi, and Yun Seong Song. (2020). &quot;Design Methodology for Robotic Manipulator for Overground Physical Interaction Tasks&quot; <i>ASME Journal of Mechanisms and Robotics</i>. 12(4).'
+citation: 'Sambad Regmi, and Yun Seong Song (2020), &quot;Design Methodology for Robotic Manipulator for Overground Physical Interaction Tasks&quot; <i>ASME Journal of Mechanisms and Robotics</i>, 12(4): 041002.'
 ---
 This paper is about the number 1. The number 2 is left for future work.
 
