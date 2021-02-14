@@ -19,36 +19,35 @@ Education
   * Project: “Human Arm Impedance Modulation during Overground Physical Interactions”(funded byNational Science Foundation)
   * Advisor: [Dr. Yun Seong Song](https://mae.mst.edu/facultyandstaff/facultysong/)
 
-Work experience
+Employment
 ======
-* August 2017 - Present: Graduate Research Assistant, <i> Missouri University of Science and Technology </i>
+* **Graduate Research Assistant**, Missouri University of Science and Technology, Rolla-MO (August 2017 - Present)
   * Designed and developed robotic manipulator for physical human robot interaction experiments; Selected required hardware and software for the robot; and, currently trying to implement various force, position, and velocity control strategies on the robot
   * Developed a "dynamics" simulator of a robotic manipulator using Lagrangian method; estimated the friction/damping of rotational joints, and verified its accuracy using the effective inertia estimate; developed a method to estimate the output impedance of a manipulator using the robotic simulator
   * Currently selecting a data acquisition and analysis technique for experiments involving our robot
   * Currently, designing and conducting a human-robot interaction experiment, including acquiring an IRB approval, recruiting and interacting with the participants, preparing and maintaining the experiment setup, collecting and analyzing the data, and reporting results
-* June 2016 - June 2017: Quality Assurance and Maintenance Engineer, <i>Nepal Health Research Council </i>
+* **Quality Assurance and Maintenance Engineer**, Nepal Health Research Council, Nepal (June 2016 - June 2017)
   * Involved in solving various issues related to the equipment for ECG and Sprirometry tests that were used in project "Prevalence of Chronic Diseases in Nepal"}
   * Coordinated with health workers and patients for smooth and effortless use of the devices}
-  
 
 Teaching and Mentoring Experience
 ======
-* January 2020 - Present: Graduate Teaching Assistant, <i> Missouri University of Science and Technology </i>
-  * Provided guidance in lab sessions of ME4480 Control System Lab in understanding physical concepts of control systems
-  * Assisted students in hardware implementation of control algorithms using PLC and LabVIEW software
-  * Evaluated students' performance and provided detailed feedback on conceptual understanding
-  * Maintained regularly scheduled office hours to advise and assist students
-  * Taught a laboratory-heavy class online during Covid-19 situation using different strategies (whichever is feasible) such as remotely accessing the hardware, using simulated environments, and making video demos
-  * Experience with course management software like Canvas, and online teaching via Zoom
+  <ul>{% for post in site.teaching %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
 
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+  * Development Tools
+  MATLAB, LabVIEW, SOLIDWORKS, Mathcad, Maplesoft, Python, PLC
+  * Software Tools
+  Vicon Nexus, Kollmorgen Workbench, Microsoft Office, Latex
+  * Hardware Experience
+  Motion capture system (Vicon Motion Systems), LabVIEW Real-Time and associated control systems; LabVIEW SoftMotion, LabVIEW FPGA, and other Modules; Brushless DC motors (Kollmorgen, Anahiem Automations (AA) and others); Motor drives and contollers (Kollmorgen-AKD and AA); ATI Force/Torque sensor, and controller; Data acquisition systems (RS232, NI USB6021, NI cRIO 9045 modules, and AA modules); DirectSoft PLC ; Electrocardiogram Machine; Spirometer
+  
+Language
+======
+English (proficient), Hindi (proficient), Nepali (native fluency)}
 
 Publications
 ======
@@ -60,12 +59,6 @@ Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
 Service and leadership
