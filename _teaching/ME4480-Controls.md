@@ -14,3 +14,5 @@ January 2020 - Present
   * Maintained regularly scheduled office hours to advise and assist students
   * Taught a laboratory-heavy class online during Covid-19 situation using different strategies (whichever is feasible) such as remotely accessing the hardware, using simulated environments, and making video demos
   * Experience with course management software like Canvas, and online teaching via Zoom
+  
+[Click here for lab details](https://mae.mst.edu/facilities/learninglabcontrolsys/)
