@@ -24,7 +24,7 @@ As a research assistant, I have been working in the Physical Human-Robot Interac
 ### Phase II: Assembly 
 An autonomous mobile base (a direct drive four wheel robot) was outsourced from [SuperDroid Robots](https://www.superdroidrobots.com/shop/item.aspx/ig52-db4-4wd-all-terrain-heavy-duty-robot-platform/1648/). The body to connect the robotic arm part and the autonomous mobile bas was fabricated in the workshop; the 3D CAD model was designed and used in CNC machine. Ultimately, All the three parts (robotic arm, fabricated body, and the mobile base) were assembled.
 <p align="center">
-  <img src="https://github.com/sambadregmi/sambadregmi.github.io/blob/master/images/complete_robot_and_me.jpg" width="200" height="400" >
+  <img src="https://github.com/sambadregmi/sambadregmi.github.io/blob/master/images/complete_robot_and_me.jpg" width="300" height="400" >
 </p>
 <p align="center">
  The developed robot and me posing as human-robot interaction experiment.
