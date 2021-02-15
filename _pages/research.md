@@ -14,8 +14,8 @@ As a research assistant, I have been working in the Physical Human-Robot Interac
 <figure class="image">
     <p align="center">
   <img src="https://github.com/sambadregmi/sambadregmi.github.io/blob/master/images/physical_robot.jpg" width="200" height="200" alt="{{ include.description }}">
-</p>
   <figcaption>{{ include.description }}</figcaption>
+     </p>
 </figure>
 
   * Identifying appropriate hardware and controller unit\
