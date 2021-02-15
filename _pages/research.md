@@ -19,12 +19,12 @@ As a research assistant, I have been working in the Physical Human-Robot Interac
 </p>
 
   * Identifying appropriate hardware and controller unit\
-  Depending on the requirement of the robotic amr, it was crucial to get the appropriate actuators, sensor and controller. Kollmorgan's actuators and AKD drivers (BLDC servo motors - to reduce friction), ATI force/torque sensors, and National Instrument's cRIO real time controller were choosen.
+  Depending on the requirement of the robotic arm, it was crucial to get the appropriate actuators, sensor and controller. Kollmorgan's actuators and AKD drivers (BLDC servo motors - to reduce friction), ATI force/torque sensors, and National Instrument's cRIO real time controller were choosen.
   
 ### Phase II: Assembly 
-An autonomous mobile base (a four wheel direct drive robot) was outsourced from [SuperDroid Robots](https://www.superdroidrobots.com/shop/item.aspx/ig52-db4-4wd-all-terrain-heavy-duty-robot-platform/1648/). The body to connect the robotic arm part and the autonomous mobile bas was fabricated in the workshop; the 3D CAD model was designed and used in CNC machine. Ultimately, All the three parts (robotic arm, fabricted body, and the mobile base) were assembled.
+An autonomous mobile base (a direct drive four wheel robot) was outsourced from [SuperDroid Robots](https://www.superdroidrobots.com/shop/item.aspx/ig52-db4-4wd-all-terrain-heavy-duty-robot-platform/1648/). The body to connect the robotic arm part and the autonomous mobile bas was fabricated in the workshop; the 3D CAD model was designed and used in CNC machine. Ultimately, All the three parts (robotic arm, fabricated body, and the mobile base) were assembled.
 <p align="center">
-  <img src="https://github.com/sambadregmi/sambadregmi.github.io/blob/master/images/physical_robot.jpg" width="200" height="400" >
+  <img src="https://github.com/sambadregmi/sambadregmi.github.io/blob/master/images/complete_robot_and_me.jpg" width="200" height="400" >
 </p>
 <p align="center">
  The developed robot and me posing as human-robot interaction experiment.
