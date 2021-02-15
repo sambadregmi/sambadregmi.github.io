@@ -11,11 +11,9 @@ As a research assistant, I have been working in the Physical Human-Robot Interac
 ### Phase I: Development of overground robot 
   * Developement of robotic arm\
   Due to the uniqueness of robot (i.e. capable of doing overground physical human-robot interection tasks), the robotic arm (manipulator) had to be designed and then built in our lab. The unique kinematic and dynamic characteristics of the robotic arm were identified and calculated. The second order non-linear dynamics of the arm was derived and hence was coded into the a simulator model of the robotic arm. This simulator not only helped us weighing up the effectiveness of the robotic arm based on its endpoint impedance but also will helped us in designing the effective control algorithms.
-<figure class="image">
-    <p align="center">
+<p align="center">
   <img src="https://github.com/sambadregmi/sambadregmi.github.io/blob/master/images/physical_robot.jpg" width="200" height="200" title="This is a Title"">
-     </p>
-</figure>
+</p>
 
   * Identifying appropriate hardware and controller unit\
   Depending on the requirement of the robotic amr, and also in order to control the robot, it was crucial to get the appropriate actuators, sensor and controller. Anehiem Automation Inc.'s actuators (BLDC motors - to reduce friction), ATI force/torque sensors, and National Instrument's cRIO real time controller were choosen.
