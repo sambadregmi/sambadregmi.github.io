@@ -16,4 +16,6 @@ Undergraduate Project
 =========
 **Conceptualization and Fabrication of Mini-Tunnel Boring Machine** (Jan 2016 - May 2016)\
 Worked together and coordinated with three other group members to come up to a concept of a portable and affordable boring machine for smaller boring projects. The concept latter was implemented as a fabricated demo model.
-[![Audi R8](http://img.youtube.com/vi/KOxbO0EI4MA/0.jpg)](https://github.com/sambadregmi/sambadregmi.github.io/blob/master/images/mini_tunnel_boring_machine.mp4 "Audi R8")
+<video width="320" height="240" controls>
+  <source src="/images/mini_tunnel_boring_machine.mp4" type="video/mp4">
+</video>
