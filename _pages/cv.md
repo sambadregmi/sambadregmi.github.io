@@ -59,14 +59,15 @@ Languages
 * Hindi (proficient)
 * Nepali (native fluency)
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
 Presentations
 ======
 * Presented a conference abstract "Design Methods for Robots for Overground Physical Interaction" 41st IEEE Engineering in Medicine and Biology Conference (EMBC 2019), Berlin, Germany. (Jul 2019)
 * Presented a conference paper ``Estimation of Endpoint Impedance of a Parallel Manipulator using a Robotic Simulator'' at ASME 2020 International Mechanical
 Engineering Congress and Exposition, Portland, OR. (Nov 2020)
+
+Publications
+======
+  <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
