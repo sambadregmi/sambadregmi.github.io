@@ -10,7 +10,7 @@ author_profile: true
 As a research assistant, I have been working in the Physical Human-Robot Interaction Laboratory (pHRI Lab) under the supervision of Dr. Yun Seong Song in the NSF funded project "Human Arm Impedance Modulation during Overground Physical Interactions". Following shows the outline my Ph.D research;
 ### Phase I: Development of overground robot 
   * Developement of robotic arm\
-  Due to the uniqueness of robot (i.e. capable of doing overground physical human-robot interection tasks), the robotic arm (manipulator) had to be designed and then built in our lab. The unique kinematic and dynamic characteristics of the robotic arm were identified and calculated. The second order non-linear dynamics of the arm was derived and hence was coded into the a simulator model of the robotic arm. This simulator not only helped us weighing up the effectiveness of the robotic arm based on its endpoint impedance but also will helped us in designing the effective control algorithms.
+  Due to the unique characteristics expected in the robot (i.e. capable of doing overground physical human-robot interection tasks), the robotic arm (manipulator) had to be designed and then built in our lab. The unique kinematic and dynamic characteristics of the robotic arm were identified and calculated. The second order non-linear dynamics of the arm was derived and hence was coded into to develop a simulator model of the robotic arm. This simulator not only helped us weighing up the effectiveness of the robotic arm based on its endpoint impedance but also will helped us in designing the effective control algorithms.
 <p align="center">
   <img src="https://sambadregmi.github.io/images/physical_robot.jpg" width="200" height="200" >
 </p>
@@ -22,7 +22,7 @@ As a research assistant, I have been working in the Physical Human-Robot Interac
   Depending on the requirement of the robotic arm, it was crucial to get the appropriate actuators, sensor and controller. Kollmorgan's actuators and AKD drivers (BLDC servo motors - to reduce friction), ATI force/torque sensors, and National Instrument's cRIO real time controller were choosen.
   
 ### Phase II: Assembly 
-An autonomous mobile base (a direct drive four wheel robot) was outsourced from [SuperDroid Robots](https://www.superdroidrobots.com/shop/item.aspx/ig52-db4-4wd-all-terrain-heavy-duty-robot-platform/1648/). The body to connect the robotic arm part and the autonomous mobile bas was fabricated in the workshop; the 3D CAD model was designed and used in CNC machine. Ultimately, All the three parts (robotic arm, fabricated body, and the mobile base) were assembled.
+An autonomous mobile base (a direct drive four wheel robot) was outsourced from [SuperDroid Robots](https://www.superdroidrobots.com/shop/item.aspx/ig52-db4-4wd-all-terrain-heavy-duty-robot-platform/1648/). The body to connect the robotic arm part and the autonomous mobile bas was fabricated in the workshop; the 3D CAD model was designed in ordet to process the fabrication using CNC machine. Ultimately, All the three parts (robotic arm, fabricated body, and the mobile base) were assembled.
 <p align="center">
   <img src="https://sambadregmi.github.io/images/complete_robot_and_me.jpg" width="300" height="400" >
 </p>
