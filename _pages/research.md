@@ -27,7 +27,7 @@ An autonomous mobile base (a direct drive four wheel robot) was outsourced from 
   <img src="https://sambadregmi.github.io/images/complete_robot_and_me.jpg" width="300" height="400" >
 </p>
 <p align="center">
- Figure. The developed robot and me posing as human-robot interaction experiment.
+ Figure. The developed robot and me mocking human-robot interaction experiment.
 </p>
 
 ### Phase III: Implementing control and Validation
