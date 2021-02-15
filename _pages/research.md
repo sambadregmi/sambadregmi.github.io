@@ -7,7 +7,7 @@ author_profile: true
 
 Ph.D Research
 =========
-### Development of an Interactive Robot for Overground Physical Human-Robot Interaction** (August 2017 - Present) 
+<h3> Development of an Interactive Robot for Overground Physical Human-Robot Interaction </h3> (August 2017 - Present) 
 As a research assistant, I have been working in the Physical Human-Robot Interaction Laboratory (pHRI Lab) under the supervision of Dr. Yun Seong Song in the NSF funded project "Human Arm Impedance Modulation during Overground Physical Interactions". I can divide my Ph.D research into following
 #### Development of overground robot that is capable of doing simple physical human-robot interection experiment.
   ##### Developement of robotic arm (manipulator) 
