@@ -18,4 +18,4 @@ Undergraduate Project
 Worked together and coordinated with three other group members to come up to a concept of a portable and affordable boring machine for smaller boring projects. The concept latter was implemented as a fabricated demo model.
 
 {% include base_path %}
-[Download the video to watch the fabricated demo mini-tunnel boring machine.](http://sambadregmi.github.io/images/mini_tunnel_boring_machine.mp4)
+[Click here to watch the video of the fabricated demo mini-tunnel boring machine.](http://sambadregmi.github.io/images/mini_tunnel_boring_machine.mp4)
