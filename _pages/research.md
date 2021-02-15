@@ -14,6 +14,7 @@ As a research assistant, I have been working in the Physical Human-Robot Interac
   <p align="center">
   <img src="https://github.com/sambadregmi/sambadregmi.github.io/blob/master/images/physical_robot.jpg" width="200" height="200">
 </p>
+
   * Identifying appropriate hardware and controller unit\
   Depending on the requirement of the robotic amr, and also in order to control the robot, it was crucial to get the appropriate actuators, sensor and controller. Anehiem Automation Inc.'s actuators (BLDC motors - to reduce friction), ATI force/torque sensors, and National Instrument's cRIO real time controller were choosen.
   
