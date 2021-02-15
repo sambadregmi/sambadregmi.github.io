@@ -12,8 +12,11 @@ As a research assistant, I have been working in the Physical Human-Robot Interac
   * Developement of robotic arm\
   Due to the uniqueness of robot (i.e. capable of doing overground physical human-robot interection tasks), the robotic arm (manipulator) had to be designed and then built in our lab. The unique kinematic and dynamic characteristics of the robotic arm were identified and calculated. The second order non-linear dynamics of the arm was derived and hence was coded into the a simulator model of the robotic arm. This simulator not only helped us weighing up the effectiveness of the robotic arm based on its endpoint impedance but also will helped us in designing the effective control algorithms.
 <p align="center">
-  <img src="https://github.com/sambadregmi/sambadregmi.github.io/blob/master/images/physical_robot.jpg" width="200" height="200" >\
+  <img src="https://github.com/sambadregmi/sambadregmi.github.io/blob/master/images/physical_robot.jpg" width="200" height="200" >
  <em>The Amazon Rainforest contains a multitude of species.</em>
+</p>
+<p align="center">
+ *The Amazon Rainforest contains a multitude of species.*
 </p>
 
   * Identifying appropriate hardware and controller unit\
