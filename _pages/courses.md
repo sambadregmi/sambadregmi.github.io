@@ -5,7 +5,7 @@ permalink: /courses/
 author_profile: true
 ---
 
-# Course Work
+# Course work
 * Mechanical and Aerospace Control System 
 * Advanced Topics in Decision and Control
 * Discrete Neural Network Control
