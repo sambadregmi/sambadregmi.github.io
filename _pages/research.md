@@ -27,10 +27,13 @@ An autonomous mobile base (a direct drive four wheel robot) was outsourced from 
   <img src="https://sambadregmi.github.io/images/complete_robot_and_me.jpg" width="300" height="400" >
 </p>
 <p align="center">
- Figure. The developed robot and me mocking human-robot interaction experiment.
+ Figure. The developed robot and me mimicing human-robot interaction experiment.
 </p>
 
 ### Phase III: Implementing control and Validation
+* Implenting control\
+The control for the robot arm as well was the mobile base is programmed using LabVIEW and can be used for real time control of robot. The lower base is controller using simple PID position control and the robotic arm is required to be controlled uing impedance control.
+* Validation\
 The integrated robot can be used as a speed controlled trajectory tracker, as a leader of overground pHRI experiments, and is also capable of providing occasional force perturbations through the endpoint of the arm, which is the only point of communication with the human follower during the experiment. Movement data at various location/parts will be collected during the experiment; robot motion data can be collected using wheel encoders and arm motor encoders whereas movement of human body parts can be recorded using vicon motion capture systems. The captured data, after required preprocessing, will be analyzed to extract meaningful information on how the human arm impedance is modulated during overground human-robot interaction. 
 
 # Undergraduate Project
