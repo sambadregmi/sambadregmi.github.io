@@ -13,3 +13,5 @@ In course of robot development, we also developed a simulator model of the robot
 
 Undergraduate Project
 =========
+**Conceptualization and Fabrication of Mini-Tunnel Boring Machine** (Jan 2016 - May 2016)
+Worked together and coordinated with three other group members to come up to a concept of a portable and affordable boring machine for smaller boring projects. The concept latter was implemented as a fabricated demo model.
