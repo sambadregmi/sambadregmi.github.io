@@ -3,7 +3,7 @@ title: "Estimation of Endpoint Impedance of a 2D Parallel Manipulator using Nume
 collection: publications
 permalink: /publication/2020-estimation-of
 excerpt: ''
-date: 2021-02-16
+date: 2020-11-19
 venue: 'ASME 2020 International Mechanical Engineering Congress and Exposition'
 paperurl: 'https://doi.org/10.1115/IMECE2020-23419'
 citation: 'Sambad Regmi, and Yun Seong Song (2020), &quot;Estimation of Endpoint Impedance of a 2D Parallel Manipulator using Numerical Simulation Experiment &quot; <i>ASME International Mechanical Engineering Congress and Exposition, Vol. 84522. American Society of Mechanical Engineers</i>'
