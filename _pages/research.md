@@ -27,7 +27,7 @@ An autonomous mobile base (a direct drive four wheel robot) was outsourced from 
   <img src="https://sambadregmi.github.io/images/Robot_and_Sambad_Regmi.jpg" width="3500">
 </p>
 <p align="center">
- Figure. Me and the novel physical human-robot interaction experiment.
+ Figure. Me and the novel physical human-robot interaction.
 </p>
 
 ### Phase III: Working with the robot
