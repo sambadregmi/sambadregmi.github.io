@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate (Senior) Lab"
 permalink: /teaching/ME4480-Controls
 venue: "Missouri University of Science and Technology, Department of Mechanical and Aerospace engineering"
-%date: 2020-01-18
+date: 2020-01-18
 location: "Rolla-MO, USA"
 ---
 January 2020 - May 2021
