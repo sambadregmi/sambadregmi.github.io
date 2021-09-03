@@ -4,10 +4,10 @@ collection: teaching
 type: "Undergraduate (Senior) Lab"
 permalink: /teaching/ME4480-Controls
 venue: "Missouri University of Science and Technology, Department of Mechanical and Aerospace engineering"
-date: 2021-01-18
+%date: 2020-01-18
 location: "Rolla-MO, USA"
 ---
-January 2020 - Present
+January 2020 - May 2021
   * Provided guidance in understanding physical concepts of control systems
   * Assisted students in hardware implementation of control algorithms using PLC and LabVIEW software
   * Evaluated students’ performance and provided detailed feedback on conceptual understanding
