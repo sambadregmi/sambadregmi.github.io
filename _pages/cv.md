@@ -27,7 +27,7 @@ Employment
   * Developed a "dynamics" simulator of a robotic manipulator using Lagrangian method; estimated the friction/damping of rotational joints, and verified its accuracy using the effective inertia estimate; developed a method to estimate the output impedance of a manipulator using the robotic simulator
   * Currently selecting a data acquisition and analysis technique for experiments involving our robot
   * Currently, designing and conducting a human-robot interaction experiment, including acquiring an IRB approval, recruiting and interacting with the participants, preparing and maintaining the experiment setup, collecting and analyzing the data, and reporting results
-* **Engineering Intern (Mechatronics)**, ASML, Wilton-CT (August 2021 - Present)
+* **Engineering Intern (Mechatronics)**, ASML, Wilton-CT (September 2021 - Present)
   * Working on sub-systems involving robotics, mechatronics, and precision mechanics, which involves understanding the functional requirements and deriving specifications.
   * Working with system architects in a multidiscipline project team to develop concepts, perform engineering analysis, and build and test prototypes.
 * **Quality Assurance and Maintenance Engineer**, Nepal Health Research Council, Nepal (June 2016 - June 2017)
