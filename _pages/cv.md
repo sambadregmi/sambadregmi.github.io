@@ -26,7 +26,7 @@ Employment
   * Designed and developed robotic manipulator for physical human robot interaction experiments; Selected required hardware and software for the robot; and, currently trying to implement various force, position, and velocity control strategies on the robot
   * Developed a "dynamics" simulator of a robotic manipulator using Lagrangian method; estimated the friction/damping of rotational joints, and verified its accuracy using the effective inertia estimate; developed a method to estimate the output impedance of a manipulator using the robotic simulator
   * Selected a data acquisition and analysis technique for experiments involving our robot
-  * Designed and conducted a human-robot interaction experiment, including acquiring an IRB approval, recruiting and interacting with the participants, preparing and maintaining the experiment setup, collecting and analyzing the data.
+  * Designed and conducted a human-robot interaction experiment, including acquiring an IRB approval, recruiting and interacting with the participants, preparing and maintaining the experiment setup, and collecting and analyzing the data.
   * Currently, preparing the manuscripts in order to report outcomes of the experiments.
 * **Engineering Intern (Mechatronics)**, ASML, Wilton-CT (September 2021 - Present)
   * Working on sub-systems involving robotics, mechatronics, and precision mechanics, which involves understanding the functional requirements and deriving specifications.
