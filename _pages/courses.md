@@ -25,4 +25,4 @@ author_profile: true
 # Online courses (Coursera)
 * Control of Mobile Robots
 * Machine Learning
-* Python (Specialization) https://coursera.org/share/891dc4debcb3bed653dcab2cb5bda414
+* [Python (Specialization)](https://coursera.org/share/891dc4debcb3bed653dcab2cb5bda414)
