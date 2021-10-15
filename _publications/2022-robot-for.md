@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2022-robot-for
 excerpt: ''
 date: 2022-01-01
-venue: 'In process'
+venue: 'Patent in process'
 paperurl: ''
 citation: 'In process'
 ---
