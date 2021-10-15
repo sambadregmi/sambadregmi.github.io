@@ -31,7 +31,7 @@ Employment
   * Working on sub-systems involving robotics, mechatronics, and precision mechanics, which involves understanding the functional requirements and deriving specifications.
   * Working with system architects in a multidiscipline project team to develop concepts, perform engineering analysis, and build and test prototypes.
 * **Quality Assurance and Maintenance Engineer**, Nepal Health Research Council, Nepal (June 2016 - June 2017)
-  * Involved in solving various issues related to the equipment for ECG and Sprirometry tests that were used in project "Prevalence of Chronic Diseases in Nepal"}
+  * Involved in solving various issues related to the equipment for ECG and Sprirometry tests that were used in project "Prevalence of Chronic Diseases in Nepal"
   * Coordinated with health workers and patients for smooth and effortless use of the devices
 
 Teaching and Mentoring Experience
@@ -43,7 +43,7 @@ Teaching and Mentoring Experience
 Skills
 ======
 * Development Tools\
-  MATLAB, LabVIEW, SOLIDWORKS, Mathcad, Maplesoft, Python, PLC
+  MATLAB, Simulink, LabVIEW, SOLIDWORKS, Mathcad, Maplesoft, Python, PLC, SQLite
 * Software Tools\
   Vicon Nexus, Kollmorgen Workbench, Microsoft Office, Latex
 * Hardware Experience\
@@ -64,7 +64,7 @@ Languages
 
 Presentations
 ======
-* Presented a conference abstract "Design Methods for Robots for Overground Physical Interaction" 41st IEEE Engineering in Medicine and Biology Conference (EMBC 2019), Berlin, Germany. (Jul 2019)
+* Presented a conference abstract ``Design Methods for Robots for Overground Physical Interaction'' 41st IEEE Engineering in Medicine and Biology Conference (EMBC 2019), Berlin, Germany. (Jul 2019)
 * Presented a conference paper ``Estimation of Endpoint Impedance of a Parallel Manipulator using a Robotic Simulator'' at ASME 2020 International Mechanical
 Engineering Congress and Exposition, Portland, OR. (Nov 2020)
 
