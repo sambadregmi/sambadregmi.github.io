@@ -6,6 +6,6 @@ excerpt: ''
 date: 2022-01-01
 venue: 'Patent in process'
 paperurl: ''
-citation: 'In process'
+citation: 'Patent in process'
 ---
 Details will be added after patent process completion
