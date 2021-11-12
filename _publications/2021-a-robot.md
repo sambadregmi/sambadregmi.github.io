@@ -6,6 +6,6 @@ excerpt: ''
 date: 2021-07-24
 venue: 'Submitted'
 paperurl: ''
-citation: 'Sambad Regmi, Devin Burns and Yun Seong Song (2021), &quot;A Robot for Overground Physical Human-Robot Interaction Experiments &quot; <i>submitted</i>'
+citation: 'Sambad Regmi, Devin Burns and Yun Seong Song (2021), &quot;A Robot for Overground Physical Human-Robot Interaction and Validation Experiment &quot; <i>submitted</i>'
 ---
 Abstract will be posted after journal acceptance for publication.
