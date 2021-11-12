@@ -16,7 +16,7 @@ Currently, I am working on manuscripts to report the results obtained from the e
 
 My research interests mainly lie within the field of **mechatronics** with an emphasis on: 
 1. Mechatronics, robotics, and controls
-2. Data acquisition and analysis of human experiments
+2. Data acquisition
 3. Rehabilitation robotics
 4. Kinematics and dynamics of robotic manipulators as well as human arms
 5. Human-human and human-robot interaction
