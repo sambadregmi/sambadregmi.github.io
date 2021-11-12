@@ -1,5 +1,5 @@
 ---
-title: "A Robot for Overground Physical Human-Robot Interaction Experiments"
+title: "A Robot for Overground Physical Human-Robot Interaction and Validation Experiment"
 collection: publications
 permalink: /publication/2021-a-robot
 excerpt: ''
