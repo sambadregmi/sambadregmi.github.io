@@ -28,9 +28,9 @@ Employment
   * Selected a data acquisition and analysis technique for experiments involving our robot
   * Designed and conducted a human-robot interaction experiment, including acquiring an IRB approval, recruiting and interacting with the participants, preparing and maintaining the experiment setup, and collecting and analyzing the data.
   * Currently, preparing the manuscripts in order to report outcomes of the experiments.
-* **Engineering Intern (Mechatronics)**, ASML, Wilton-CT (September 2021 - Present)
-  * Working on sub-systems involving robotics, mechatronics, and precision mechanics, which involves understanding the functional requirements and deriving specifications.
-  * Working with system architects in a multidiscipline project team to develop concepts, perform engineering analysis, and build and test prototypes.
+* **Engineering Intern (Mechatronics)**, ASML, Wilton-CT (September 2021 - December 2021)
+  * Worked on sub-systems involving robotics, mechatronics, and precision mechanics, which involved understanding the functional requirements and deriving specifications.
+  * Worked with system architects in a multidiscipline project team to develop concepts, perform engineering analysis, and build and test prototypes.
 * **Quality Assurance and Maintenance Engineer**, Nepal Health Research Council, Nepal (June 2016 - June 2017)
   * Involved in solving various issues related to the equipment for ECG and Sprirometry tests that were used in project "Prevalence of Chronic Diseases in Nepal"
   * Coordinated with health workers and patients for smooth and effortless use of the devices
