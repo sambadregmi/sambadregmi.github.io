@@ -52,6 +52,8 @@ Skills
 
 Awards
 ======
+* 3 Minutes Poster Presentation,  Missouri S\&T Council of Graduate Students (Dec 2021)\
+  Presented a summary of my PhD research, and grabbed 5th place for the best presentation out of total 29 graduate student participants
 * COMPEX Scholarship Scheme 2012, Embassy of India (Jul 2012 - May 2016)\
   Got selected through an open competition to pursue BE (Mechanical Engineering) in India
 * John W. Claypool Fund for Medical Research (Nov 2020 - Apr 2021)\
