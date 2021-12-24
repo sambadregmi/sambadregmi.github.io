@@ -52,7 +52,7 @@ Skills
 
 Awards
 ======
-* 3 Minutes Poster Presentation,  Missouri S\&T Council of Graduate Students (Dec 2021)\
+* 3 Minutes Poster Presentation,  Missouri S&T Council of Graduate Students (Dec 2021)\
   Presented a summary of my PhD research, and grabbed 5th place for the best presentation out of total 29 graduate student participants
 * John W. Claypool Fund for Medical Research (Nov 2020 - Apr 2021)\
   Received student research funding to conduct research on human-human and human-robot interaction
