@@ -15,7 +15,7 @@ Education
 * <b>B.E. in Mechanical Engineering, Visvesvaraya Technological University, India </b>
   * Date: June, 2016 (Percentage: 85%)
 * <b>Ph.D in Mechanical Engineering, Missouri University of Science and Technology, Rolla-MO, USA </b>
-  * Date: April, 2022 (expected) (Current GPA: 3.93)
+  * Date: April, 2022 (GPA: 3.93)
   * Doctoral Thesis Title: “Development of an Interactive Robot for Overground Physical Human-Robot Interaction”
   * Project: “Human Arm Impedance Modulation during Overground Physical Interactions”(funded by National Science Foundation)
   * Advisor: [Dr. Yun Seong Song](https://people.mst.edu/faculty/songyun/index.html)
@@ -52,6 +52,8 @@ Skills
 
 Awards
 ======
+* 3MT, Missouri S&T
+  Received the people's choice award
 * 3 Minutes Poster Presentation,  Missouri S&T Council of Graduate Students (Dec 2021)\
   Presented a summary of my PhD research, and grabbed 5th place for the best presentation out of total 29 graduate student participants
 * John W. Claypool Fund for Medical Research (Nov 2020 - Apr 2021)\
