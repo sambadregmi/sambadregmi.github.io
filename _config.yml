@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Sambad Regmi, Ph.D."
+title                    : "Sambad Regmi"
 title_separator          : "-"
-name                     : &name "Sambad Regmi"
+name                     : &name "Sambad Regmi, Ph.D."
 description              : &description "personal description"
 url                      : https://sambadregmi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
