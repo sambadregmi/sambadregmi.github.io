@@ -15,7 +15,7 @@ Education
 * <b>B.E. in Mechanical Engineering, Visvesvaraya Technological University, India </b>
   * Date: June, 2016 (Percentage: 85%)
 * <b>Ph.D in Mechanical Engineering, Missouri University of Science and Technology, Rolla-MO, USA </b>
-  * Date: April, 2022 (GPA: 3.93)
+  * Date: May, 2022 (GPA: 3.93)
   * Doctoral Thesis Title: “Development of an Interactive Robot for Overground Physical Human-Robot Interaction”
   * Project: “Human Arm Impedance Modulation during Overground Physical Interactions”(funded by National Science Foundation)
   * Advisor: [Dr. Yun Seong Song](https://people.mst.edu/faculty/songyun/index.html)
