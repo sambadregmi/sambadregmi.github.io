@@ -22,7 +22,7 @@ Education
 
 Employment
 ======
-* **Senior Mechatronics Engineer**, ASML, wilton-CT (May 2022 - Present)
+* **Senior Mechatronics Engineer**, ASML, Wilton-CT (May 2022 - Present)
   * Working with system architects in a multidiscipline project team to develop concepts, perform engineering analysis, and build and test prototypes.
 * **Graduate Research Assistant**, Missouri University of Science and Technology, Rolla-MO (August 2017 - May 2022)
   * Designed and developed robotic manipulator for physical human robot interaction experiments; Selected required hardware and software for the robot; and, currently trying to implement various force, position, and velocity control strategies on the robot
