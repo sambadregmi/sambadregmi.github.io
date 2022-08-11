@@ -24,7 +24,7 @@ Employment
 ======
 * **Senior Mechatronics Engineer**, ASML, Wilton-CT (May 2022 - Present)
   * Working with system architects in a multidiscipline project team to develop concepts, perform engineering analysis, and build and test prototypes.
-* **Graduate Research Assistant**, Missouri University of Science and Technology, Rolla-MO (August 2017 - May 2022)
+* **Graduate Research Assistant**, Missouri University of Science and Technology, Rolla-MO (August 2017 - April 2022)
   * Designed and developed robotic manipulator for physical human robot interaction experiments; Selected required hardware and software for the robot; and, currently trying to implement various force, position, and velocity control strategies on the robot
   * Developed a "dynamics" simulator of a robotic manipulator using Lagrangian method; estimated the friction/damping of rotational joints, and verified its accuracy using the effective inertia estimate; developed a method to estimate the output impedance of a manipulator using the robotic simulator
   * Selected a data acquisition and analysis technique for experiments involving our robot
