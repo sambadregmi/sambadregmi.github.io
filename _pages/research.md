@@ -6,11 +6,11 @@ author_profile: true
 ---
 
 # Work
-Currenlty, I am a part of development and engineering team that is working on building the very first High-NA EUV Lithography Systems([TWINSCAN EXE500](https://www.asml.com/en/news/press-releases/2022/intel-and-asml-strengthen-their-collaboration-to-drive-high-na-into-manufacturing-in-2025)).
+Currenlty, I am a part of the development and engineering team that is working on building the very first High-NA EUV Lithography System ([TWINSCAN EXE500](https://www.asml.com/en/news/press-releases/2022/intel-and-asml-strengthen-their-collaboration-to-drive-high-na-into-manufacturing-in-2025)).
 
 # Ph.D Research
 ## Development of an Interactive Robot for Overground Physical Human-Robot Interaction ### 
-As a research assistant, I have been working in the Physical Human-Robot Interaction Laboratory (pHRI Lab) under the supervision of [Dr. Yun Seong Song](https://mae.mst.edu/facultyandstaff/facultysong/) in the NSF funded project "Human Arm Impedance Modulation during Overground Physical Interactions". Following is the outline my Ph.D research;
+I worked as a graduate research assistant in the Physical Human-Robot Interaction Laboratory (pHRI Lab) under the supervision of [Dr. Yun Seong Song](https://mae.mst.edu/facultyandstaff/facultysong/) in the NSF funded project "Human Arm Impedance Modulation during Overground Physical Interactions". Following is the outline my Ph.D research;
 ### Phase I: Development of overground robot 
   * Developement of robotic arm\
   Due to the unique characteristics expected in the robot (i.e. capable of doing overground physical human-robot interection tasks), the robotic arm (manipulator) had to be designed and then built in our lab. The unique kinematic and dynamic characteristics of the robotic arm were identified and calculated. The second order non-linear dynamics of the arm was derived and hence was coded in to develop a simulator model of the robotic arm. This simulator not only helped us weighing up the effectiveness of the robotic arm based on its endpoint impedance but also will helped us in designing the effective control algorithms.
