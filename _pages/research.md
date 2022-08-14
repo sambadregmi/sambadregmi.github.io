@@ -19,7 +19,7 @@ I worked as a graduate research assistant in the Physical Human-Robot Interactio
 </p>
 <p align="center">
  Figure. The completed robotic arm.
-</p>
+</p>\
   * Identifying appropriate hardware and controller unit\
   Depending on the requirement of the robotic arm, it was crucial to choose appropriate actuators, sensor and controllers. Kollmorgan's actuators and AKD drivers (BLDC servo motors - to reduce friction), ATI force/torque sensors, and National Instrument's cRIO real time controller were chosen.
 ### Phase II: Assembly 
