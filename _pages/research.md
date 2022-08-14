@@ -31,6 +31,7 @@ An autonomous mobile base (a direct drive four wheel robot) was outsourced from 
 <p align="center">
  Figure. Me and the novel robot built for overground physical human-robot interaction.
 </p>
+
 ### Phase III: Working with the robot
 * Implementing control\
 The command to control the robot arm as well was the mobile base is executed using the aforementioned NI cRIO controller (using LabVIEW software). The lower base is controlled using simple PID position control algorithm whereas the robotic arm is required to be controlled using impedance control.
