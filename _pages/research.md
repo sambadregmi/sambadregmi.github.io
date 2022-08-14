@@ -5,6 +5,9 @@ permalink: /research/
 author_profile: true
 ---
 
+# Work
+Currenlty, I am a part of development and engineering team that is working on building the very first High-NA EUV Lithography Systems([TWINSCAN EXE500](https://www.asml.com/en/news/press-releases/2022/intel-and-asml-strengthen-their-collaboration-to-drive-high-na-into-manufacturing-in-2025)).
+
 # Ph.D Research
 ## Development of an Interactive Robot for Overground Physical Human-Robot Interaction ### 
 As a research assistant, I have been working in the Physical Human-Robot Interaction Laboratory (pHRI Lab) under the supervision of [Dr. Yun Seong Song](https://mae.mst.edu/facultyandstaff/facultysong/) in the NSF funded project "Human Arm Impedance Modulation during Overground Physical Interactions". Following is the outline my Ph.D research;
