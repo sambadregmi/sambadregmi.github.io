@@ -12,17 +12,16 @@ Currenlty, I am a part of the development and engineering team that is working o
 I worked as a graduate research assistant in the Physical Human-Robot Interaction Laboratory (pHRI Lab), which is directed by [Dr. Yun Seong Song](https://mae.mst.edu/facultyandstaff/facultysong/). The project - "Human Arm Impedance Modulation during Overground Physical Interactions"- was funded by National Science Foundation. As a part of my Ph.D, I mainly worked on two projects during my Ph.D., which are descried briefly below.
 ## Development of an Interactive Robot for Overground Physical Human-Robot Interaction
 ### Phase I: Development of an interactive robotic arm 
-Due to the unique characteristics expected from the robot (i.e. capable of performing overground physical human-robot interection), the robotic arm (manipulator) had to be designed and built in our lab. The kinematic and dynamic characteristics required were identified. The second order non-linear dynamics of the robotic arm was derived and a simulation model was developed in Matlab. The simulation model not only helped us weighing up the effectiveness of the robotic arm based on its endpoint impedance but also will helped us design and develop an effective control algorithm.
+Due to the unique characteristics expected from the robot (i.e. capable of performing overground physical human-robot interection and simultaneously measure human arm impedance), we decided to desing and build the robotic manipulator in our own lab. The kinematic and dynamic characteristics required were identified. The second order non-linear dynamics of the robotic arm was derived and a simulation model was developed in Matlab. The simulation model not only helped us weighing up the effectiveness of the robotic arm based on its endpoint impedance but also will helped us design and develop an effective control algorithm. After validating the desing using simulation model, it was crucial to get actuators, sensor, controllers and accessories that would meet the design requirements. Kollmorgan's actuators and AKD drivers (BLDC servo motors - to reduce friction), ATI force/torque sensors, and National Instrument's cRIO real time controller were chosen.
 <p align="center">
   <img src="https://sambadregmi.github.io/images/physical_robot.jpg" width="200" height="200" >
 </p>
 <p align="center">
  Figure. The completed robotic arm.
 </p>
-  Next, it was crucial to choose appropriate actuators, sensor and controllers to meet design requirements. Kollmorgan's actuators and AKD drivers (BLDC servo motors - to reduce friction), ATI force/torque sensors, and National Instrument's cRIO real time controller were chosen.
   
 ### Phase II: Body frame and the mobile base
-An autonomous mobile base (a direct drive four wheel robot) was outsourced from [SuperDroid Robots](https://www.superdroidrobots.com/shop/item.aspx/ig52-db4-4wd-all-terrain-heavy-duty-robot-platform/1648/). The body frame that would lodge the interactive arm and the electrical assecories was fabricated in the workshop- the 3D CAD model was designed in order to process the fabrication using CNC machining. Ultimately, all the three parts (robotic arm, fabricated body, and the mobile base) were assembled.
+An autonomous mobile base (a direct drive four wheel robot) was outsourced from [SuperDroid Robots](https://www.superdroidrobots.com/shop/item.aspx/ig52-db4-4wd-all-terrain-heavy-duty-robot-platform/1648/). The body frame that would lodge the interactive arm and the electrical accessories was designed as a 3D CAD model. It was then fabricated in the university workshop using CNC machining. Ultimately, all the three subsystems - robotic arm, body frame, and the mobile base - were assembled.
 <p align="center">
   <img src="https://sambadregmi.github.io/images/Robot_and_Sambad_Regmi.jpg" width="1000" height="750">
 </p>
