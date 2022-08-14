@@ -21,7 +21,7 @@ Due to the unique characteristics expected from the robot (i.e. capable of perfo
 </p>
   
 ### Phase II: Body frame and the mobile base
-An autonomous mobile base (a direct drive four wheel robot) was outsourced from [SuperDroid Robots](https://www.superdroidrobots.com/shop/item.aspx/ig52-db4-4wd-all-terrain-heavy-duty-robot-platform/1648/). The body frame that would lodge the interactive arm and the electrical accessories was designed as a 3D CAD model. It was then fabricated in the university workshop using CNC machining. Ultimately, all the three subsystems - robotic arm, body frame, and the mobile base - were assembled.
+An autonomous mobile base (a direct drive four wheel robot) was outsourced from [SuperDroid Robots](https://www.superdroidrobots.com/shop/item.aspx/ig52-db4-4wd-all-terrain-heavy-duty-robot-platform/1648/). The body frame that would lodge the interactive arm and the electrical accessories was designed as a 3D CAD model. It was then fabricated in the university workshop using CNC machining. All the three subsystems - robotic arm, body frame, and the mobile base - were assembled in our lab.
 <p align="center">
   <img src="https://sambadregmi.github.io/images/Robot_and_Sambad_Regmi.jpg" width="1000" height="750">
 </p>
@@ -30,7 +30,7 @@ An autonomous mobile base (a direct drive four wheel robot) was outsourced from 
 </p>
 
 ### Phase III: Implementing control
-The command to control the robot arm as well was the mobile base is executed using the aforementioned NI cRIO controller (using LabVIEW software). The lower base is controlled using simple PID position control algorithm whereas the robotic arm is required to be controlled using impedance control.
+Next task was to design a control framework. The command to control the robot arm as well was the mobile base is executed using the aforementioned NI cRIO controller (using LabVIEW software). The lower base is controlled using simple PID position control algorithm whereas the robotic arm is required to be controlled using impedance control.
 
 ## Human Arm Impedance Measurement during Overground Physical Human-Robot Interaction
 The integrated robot can now be used as a speed controlled trajectory tracker, as a leader of overground pHRI experiments, and is also capable of providing occasional force perturbations through the endpoint of the arm, which is the only point of communication with the human follower during the experiment. Movement data at various location/parts can be recorded during the experiment; robot motion data can be recorded using wheel encoders and vicon motion capture system whereas movement of human body parts can be recorded using vicon motion capture systems and motor encoders.\
