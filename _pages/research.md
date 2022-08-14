@@ -29,8 +29,8 @@ An autonomous mobile base (a direct drive four wheel robot) was outsourced from 
  Figure. Me and the novel robot built for overground physical human-robot interaction.
 </p>
 
-### Phase III: Implementing control
-Next task was to design a control framework. The command to control the robot arm as well was the mobile base is executed using the aforementioned NI cRIO controller (using LabVIEW software). The lower base is controlled using simple PID position control algorithm whereas the robotic arm is required to be controlled using impedance control.
+### Phase III: Control architecture
+Designing a control framework followed next. A design decision was made to use NI cRIO as a single point of control (processor) for both the manipulator and the mobile base. I outlined a control framework using LabVIEW software wuch that the lower base was controlled through a simple PID position control algorithm whereas the robotic arm was programmed to operate through either position control or position based force control (impedance control).
 
 ## Human Arm Impedance Measurement during Overground Physical Human-Robot Interaction
 The integrated robot can now be used as a speed controlled trajectory tracker, as a leader of overground pHRI experiments, and is also capable of providing occasional force perturbations through the endpoint of the arm, which is the only point of communication with the human follower during the experiment. Movement data at various location/parts can be recorded during the experiment; robot motion data can be recorded using wheel encoders and vicon motion capture system whereas movement of human body parts can be recorded using vicon motion capture systems and motor encoders.\
