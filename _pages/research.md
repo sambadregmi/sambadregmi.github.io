@@ -19,7 +19,8 @@ Due to the unique characteristics expected from the robot (i.e. capable of perfo
 <p align="center">
  Figure. The completed robotic arm.
 </p>
-  Next, it was crucial to choose appropriate actuators, sensor and controllers to meet design requirements. Kollmorgan's actuators and AKD drivers (BLDC servo motors - to reduce friction), ATI force/torque sensors, and National Instrument's cRIO real time controller were chosen.\
+  Next, it was crucial to choose appropriate actuators, sensor and controllers to meet design requirements. Kollmorgan's actuators and AKD drivers (BLDC servo motors - to reduce friction), ATI force/torque sensors, and National Instrument's cRIO real time controller were chosen.
+  
 ### Phase II: Body frame and the mobile base
 An autonomous mobile base (a direct drive four wheel robot) was outsourced from [SuperDroid Robots](https://www.superdroidrobots.com/shop/item.aspx/ig52-db4-4wd-all-terrain-heavy-duty-robot-platform/1648/). The body frame that would lodge the interactive arm and the electrical assecories was fabricated in the workshop- the 3D CAD model was designed in order to process the fabrication using CNC machining. Ultimately, all the three parts (robotic arm, fabricated body, and the mobile base) were assembled.
 <p align="center">
@@ -28,6 +29,7 @@ An autonomous mobile base (a direct drive four wheel robot) was outsourced from 
 <p align="center">
  Figure. Me and the novel robot built for overground physical human-robot interaction.
 </p>
+
 ### Phase III: Implementing control
 The command to control the robot arm as well was the mobile base is executed using the aforementioned NI cRIO controller (using LabVIEW software). The lower base is controlled using simple PID position control algorithm whereas the robotic arm is required to be controlled using impedance control.
 
