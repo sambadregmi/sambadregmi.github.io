@@ -19,9 +19,10 @@ I worked as a graduate research assistant in the Physical Human-Robot Interactio
 </p>
 <p align="center">
  Figure. The completed robotic arm.
-</p>\
+</p>
+
   * Identifying appropriate hardware and controller unit\
-  Depending on the requirement of the robotic arm, it was crucial to choose appropriate actuators, sensor and controllers. Kollmorgan's actuators and AKD drivers (BLDC servo motors - to reduce friction), ATI force/torque sensors, and National Instrument's cRIO real time controller were chosen.
+  Depending on the requirement of the robotic arm, it was crucial to choose appropriate actuators, sensor and controllers. Kollmorgan's actuators and AKD drivers (BLDC servo motors - to reduce friction), ATI force/torque sensors, and National Instrument's cRIO real time controller were chosen.\
 ### Phase II: Assembly 
 An autonomous mobile base (a direct drive four wheel robot) was outsourced from [SuperDroid Robots](https://www.superdroidrobots.com/shop/item.aspx/ig52-db4-4wd-all-terrain-heavy-duty-robot-platform/1648/). The body to connect the robotic arm part and the autonomous mobile base was fabricated in the workshop; the 3D CAD model was designed in order to process the fabrication using CNC machining. Ultimately, all the three parts (robotic arm, fabricated body, and the mobile base) were assembled.
 <p align="center">
