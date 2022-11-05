@@ -5,6 +5,10 @@ permalink: /courses/
 author_profile: true
 ---
 
+# Trainings 
+* Mechatronics System Design I
+* Stateflow for Logic-Driven System Modeling
+
 # Course work
 * Mechanical and Aerospace Control System 
 * Advanced Topics in Decision and Control
