@@ -4,9 +4,9 @@ collection: publications
 permalink: /publication/2023-balance-assist
 excerpt: ''
 date: 2023-09-19
-venue: 'Gain and Posture'
+venue: 'Gain and Posture (submitted)'
 paperurl: ''
-citation: 'Sindhu Reddy Alluri, Sambad Regmi, Fazlur Rashid, Devin Burns, and Yun Seong Song (2022), "Balance Assistance without Mechanical Support using a Virtual Cane." Gain and Posture (submitted)'
+citation: 'Sindhu Reddy Alluri, Sambad Regmi, Fazlur Rashid, Devin Burns, and Yun Seong Song (2023), "Balance Assistance without Mechanical Support using a Virtual Cane." Gain and Posture (submitted)'
 ---
 **Background:** Light Touch (LT) has been known to improve standing balance without 
 mechanical support by providing sensory information about the movement of the body. 
