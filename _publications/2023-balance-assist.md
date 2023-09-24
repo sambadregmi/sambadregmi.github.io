@@ -12,7 +12,7 @@ citation: 'Sindhu Reddy Alluri, Sambad Regmi, Fazlur Rashid, Devin Burns, and Yu
 mechanical support by providing sensory information about the movement of the body. 
 However, harnessing the benefit of LT for practical balance aid remains a challenge.
 Research question: Can a Virtual Cane (VC) show the benefit of a physical cane by providing 
-sensory information inspired by LT?
+sensory information inspired by LT? <br>
 **Methods:** The VC is developed with a distance sensor and vibration actuators to provide cane 
 tip-to-ground distance information to the user. 10 healthy young participants underwent a 
 standing balance experiment with tandem stance and eyes closed, using VC with No Feedback 
