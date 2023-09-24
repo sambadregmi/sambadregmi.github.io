@@ -18,10 +18,10 @@ tip-to-ground distance information to the user. 10 healthy young participants un
 standing balance experiment with tandem stance and eyes closed, using VC with No Feedback 
 (NF), VC with feedback, and with physical cane (PC). Center-of-Pressure (CoP) metrics as well 
 as Sway-density metrics were analyzed to study the effect of these conditions on standing 
-balance.
+balance. <br />
 **Results:** CoP metrics in VC were significantly improved compared to baseline (NF) and
 approaching the benefit of a full physical cane (PC). Sway-density metrics showed no difference 
-between the conditions.
+between the conditions. <br />
 **Significance:** This shows that simple, binary feedback from VC on the position of the body and 
 cane was sufficient to positively affect standing balance without significantly altering the 
 biomechanical strategy of standing balance. This is also a demonstration of an assistive device 
