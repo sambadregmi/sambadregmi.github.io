@@ -23,7 +23,12 @@ Education
 Employment
 ======
 * **Senior Mechatronics Engineer**, ASML, Wilton-CT (May 2022 - Present)
-  * Working with system architects in a multidiscipline project team to develop concepts, perform engineering analysis, and build and test prototypes.
+ Working with system architects in a multi-discipline project team to develop concepts, perform engineering analysis, and build and test mechatronics prototypes.
+  * Create budgets, set requirements and facilitate development of the module.
+  * Act as a technical leader and contribute to breakdown of complex technical problems, analyze the problems from different angles and find multiple solutions to choose from.
+  * Understand team goal, provide deliverable on time and take responsibility for the decisions.
+  * Define, plan and priorities tasks and follow-up on results.
+  * Communicate clear to technical team (and broad audience), about directions and expectations and follow up and feedback on results.
 * **Graduate Research Assistant**, Missouri University of Science and Technology, Rolla-MO (August 2017 - April 2022)
   * Designed and developed robotic manipulator for physical human robot interaction experiments; Selected required hardware and software for the robot; and, currently trying to implement various force, position, and velocity control strategies on the robot
   * Developed a "dynamics" simulator of a robotic manipulator using Lagrangian method; estimated the friction/damping of rotational joints, and verified its accuracy using the effective inertia estimate; developed a method to estimate the output impedance of a manipulator using the robotic simulator
@@ -31,10 +36,7 @@ Employment
   * Designed and conducted a human-robot interaction experiment, including acquiring an IRB approval, recruiting and interacting with the participants, preparing and maintaining the experiment setup, and collecting and analyzing the data.
   * Currently, preparing the manuscripts in order to report outcomes of the experiments.
 * **Engineering Intern (Mechatronics)**, ASML, Wilton-CT (September 2021 - December 2021)
-  * Worked on sub-systems involving robotics, mechatronics, and precision mechanics, which involved understanding the functional requirements and deriving specifications.
-* **Quality Assurance and Maintenance Engineer**, Nepal Health Research Council, Nepal (June 2016 - June 2017)
-  * Involved in solving various issues related to the equipment for ECG and Sprirometry tests that were used in project "Prevalence of Chronic Diseases in Nepal"
-  * Coordinated with health workers and patients for smooth and effortless use of the devices
+  * Worked on sub-systems involving robotics, mechatronics, and precision mechanics, which involved understanding the functional requirements and deriving specifications
 
 Teaching and Mentoring Experience
 ======
@@ -45,11 +47,11 @@ Teaching and Mentoring Experience
 Skills
 ======
 * Development Tools\
-  MATLAB, Simulink, LabVIEW, SOLIDWORKS, Mathcad, Maplesoft, Python, PLC, SQLite
+  MATLAB, Simulink, StateFlow, LabVIEW, Python, SOLIDWORKS, PLC, Mathcad, C (basics)
 * Software Tools\
-  Vicon Nexus, Kollmorgen Workbench, Microsoft Office, Latex
+  Vicon Nexus, Kollmorgen Workbench, Microsoft Office, Latex, proCalc, JMP, SAS, SQLite
 * Hardware Experience\
-  Motion capture system (Vicon Motion Systems), LabVIEW Real-Time and associated control systems; LabVIEW SoftMotion, LabVIEW FPGA, and other Modules; Brushless DC motors (Kollmorgen, Anahiem Automations (AA) and others); Motor drives and contollers (Kollmorgen-AKD and AA); ATI Force/Torque sensor, and controller; Data acquisition systems (RS232, NI USB6021, NI cRIO 9045 modules, and AA modules); DirectSoft PLC ; Electrocardiogram Machine; Spirometer
+  Speedgoat Real-Time Target and associated control systems; DirectSoft PLC; LabVIEW Real-Time and associated control systems; LabVIEW SoftMotion, LabVIEW FPGA, and other Modules; Motion capture system (Vicon Motion Systems); Brushless DC motors (AKD, Anahiem Automations (AA) and others); Motor drives and contollers (AKD and AA); ATI Force/Torque sensor, and controller; Data acquisition systems (RS232, NI USB6021, NI cRIO 9045 modules, and AA modules); custom hardware (Linear motors, acquisition system, etc.)
 
 Awards
 ======
