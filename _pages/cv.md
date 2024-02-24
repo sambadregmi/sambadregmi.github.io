@@ -23,7 +23,7 @@ Education
 Employment
 ======
 * **Senior Mechatronics Engineer**, ASML, Wilton-CT (May 2022 - Present)
- Working with system architects in a multi-discipline project team to develop concepts, perform engineering analysis, and build and test mechatronics prototypes.
+  * Working with system architects in a multi-discipline project team to develop concepts, perform engineering analysis, and build and test mechatronics prototypes.
   * Create budgets, set requirements and facilitate development of the module.
   * Act as a technical leader and contribute to breakdown of complex technical problems, analyze the problems from different angles and find multiple solutions to choose from.
   * Understand team goal, provide deliverable on time and take responsibility for the decisions.
