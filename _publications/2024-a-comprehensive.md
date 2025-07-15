@@ -1,7 +1,7 @@
 ---
 title: "A Comprehensive Review of Techniques and Use Cases of Deep Learning for MRI Neuroimaging"
 collection: publications
-permalink: /publication/2025-a-comprehensive
+permalink: /publication/2024-a-comprehensive
 excerpt: ''
 date: 2024-11-20
 venue: '--'
