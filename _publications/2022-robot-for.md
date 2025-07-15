@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2022-robot-for
 excerpt: ''
 date: 2025-03-11
-venue: 'United States Patent No. US17939698'
+venue: 'United States Patent No. 17939698'
 paperurl: 'https://patents.google.com/patent/US12246435B2/en'
 citation: 'Sambad Regmi and Yun Seong Song (2023), "Mobile robot configured to determine human arm stiffness during overground interaction." U.S. Patent No. US12246435B2.'
 ---
