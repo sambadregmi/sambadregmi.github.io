@@ -1,7 +1,7 @@
 ---
-title: "MOBILE ROBOT CONFIGURED TO DETERMINE HUMAN ARM STIFFNESS DURING OVERGROUND INTERACTION"
+title: "Mobile robot configured to determine human arm stiffness during overground interaction"
 collection: publications
-permalink: /publication/2022-robot-for
+permalink: /publication/2025-mobile-robot
 excerpt: ''
 date: 2025-03-11
 venue: 'United States Patent No. 17939698'
