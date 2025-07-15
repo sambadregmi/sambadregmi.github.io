@@ -1,10 +1,10 @@
 ---
-title: "Balance Assistance without Mechanical Support using a Virtual Cane"
+title: "Balance Assistance Without Mechanical Support Using a Virtual Cane with Haptic Feedback"
 collection: publications
 permalink: /publication/2025-balance-assist
 excerpt: ''
-date: 2024-11-10
-venue: 'ICORR, Chicago, USA (submitted)'
+date: 2025-05-10
+venue: 'ICORR, Chicago, USA'
 paperurl: ''
 citation: 'Sindhu Reddy Alluri, Sambad Regmi, Fazlur Rashid, Devin Burns, and Yun Seong Song (2025), "Balance Assistance without Mechanical Support using a Virtual Cane." 19th International Conference on Rehabilitation Robotics (ICORR), Chicago, USA'
 ---
